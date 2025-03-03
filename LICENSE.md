@@ -1,7 +1,7 @@
 # License
 
 The project is dual licensed under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0),
-and the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
+or the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 The SPDX short identifier is `Apache-2.0 OR CC-BY-4.0`
 
